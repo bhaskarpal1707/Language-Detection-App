@@ -17,7 +17,7 @@ A real-time multilingual language detection web application built with **Python*
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** *(Add Streamlit Link Here)*
+🔗 **Live Application:** *(https://language-detection-app-bpal.streamlit.app/)*
 
 ---
 
