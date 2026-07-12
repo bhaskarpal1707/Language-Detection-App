@@ -211,31 +211,7 @@ If you'd like to improve the project:
 
 ---
 
-# 👨‍💻 Developer
-
-## Bhaskar Pal
-
-Machine Learning • NLP • Generative AI • Data Analytics
-
-🌐 Portfolio
-
-https://bhaskarpal1707.github.io/portfolio/
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/bhaskar-pal-2k02/
-
----
-
-## ⭐ Repository Stats
-
-If you found this project useful, consider giving it a ⭐.
-
-It motivates future improvements.
-
----
-
-# 👨‍💻 About the Developer
+# 👨‍💻  Developer
 
 Bhaskar Pal
 
@@ -248,3 +224,14 @@ https://bhaskarpal1707.github.io/portfolio/
 💼 LinkedIn
 
 https://www.linkedin.com/in/bhaskar-pal-2k02/
+
+
+---
+
+## ⭐ Repository Stats
+
+If you found this project useful, consider giving it a ⭐.
+
+It motivates future improvements.
+
+---
