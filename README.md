@@ -1,5 +1,11 @@
 # 🌍 AI Language Detection System
 
+<p align="center">
+
+<img src="assets/banner.png" width="100%">
+
+</p>
+
 <div align="center">
 
 ### Detect 22 Languages Instantly Using Machine Learning
@@ -21,9 +27,14 @@ A real-time multilingual language detection web application built with **Python*
 
 ---
 
-## 📸 Application Preview
 
-> Add screenshots after deployment.
+## 📸 Application Demo
+
+<p align="center">
+
+<img src="assets/demo.gif" width="90%">
+
+</p>
 
 | Home | Prediction |
 |------|------------|
