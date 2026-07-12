@@ -12,6 +12,7 @@
 
 A real-time multilingual language detection web application built with **Python**, **Scikit-learn**, **CountVectorizer**, **Multinomial Naive Bayes**, and **Streamlit**.
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-red?style=for-the-badge)](https://language-detection-app-bpal.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)]()
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikitlearn&logoColor=white)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-FF4B4B?logo=streamlit&logoColor=white)]()
@@ -86,32 +87,13 @@ The application uses a **CountVectorizer** to transform text into numerical feat
 
 ---
 
-# 🧠 Machine Learning Pipeline
+# 🧠 ML Workflow
 
-```text
-Dataset
-      │
-      ▼
-Text Cleaning
-      │
-      ▼
-CountVectorizer
-      │
-      ▼
-Train/Test Split
-      │
-      ▼
-Multinomial Naive Bayes
-      │
-      ▼
-Model Evaluation
-      │
-      ▼
-Pickle Model
-      │
-      ▼
-Streamlit Deployment
-```
+<p align="center">
+
+<img src="assets/model_pipeline.png" width="80%">
+
+</p>
 
 ---
 
@@ -127,22 +109,6 @@ Streamlit Deployment
 | Web Framework | Streamlit |
 | Model Serialization | Pickle |
 | Version Control | Git & GitHub |
-
----
-
-# 📂 Project Structure
-
-```text
-Language-Detection-App/
-│
-├── app.py
-├── language_detector.pkl
-├── count_vectorizer.pkl
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── assets/
-```
 
 ---
 
@@ -261,16 +227,24 @@ https://www.linkedin.com/in/bhaskar-pal-2k02/
 
 ---
 
-# ⭐ Support
+## ⭐ Repository Stats
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+If you found this project useful, consider giving it a ⭐.
 
-It helps others discover the project and motivates future improvements.
+It motivates future improvements.
 
 ---
 
-<div align="center">
+# 👨‍💻 About the Developer
 
-Made with ❤️ by **Bhaskar Pal**
+Bhaskar Pal
 
-</div>
+Machine Learning | NLP | Generative AI | Data Analytics
+
+🌐 Portfolio
+
+https://bhaskarpal1707.github.io/portfolio/
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/bhaskar-pal-2k02/
